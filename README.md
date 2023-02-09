@@ -24,7 +24,9 @@ I'm Luc Salvon, a computer science student at Université de Paris, in France. I
 ### Miscellaneous stuff to fill the void in our hearts with
 
 - I'm 20 (when you're reading this the info is surely expired)
-- I like indie games (like I'll probably do some in the future but it's hard so let's get rich before that)
+- I grew up in Burgundy in the deepness of the French countryside, so I know a few cows I guess :cow:
+- I really like indie games (like I'll probably do some in the future but it's hard so let's get rich before that)
+- I barely have time to play some though *(does anyone on this planet have enough time to do stuff though)*
 - I also like penguins since I'm like 10, guess Tux and I were meant to be together :penguin: *don't tell him I'm also using MacOS though*
 - I really don't know what to put here, so I'll start talking in toki pona because it's cool and it makes me seem inteligent:
 - mi ken toki lili taso e toki pona la mi ken ala toki mute. sina ken kama sona e toki mi la sina jan pona. kijetesantakalu wawa li lon.
