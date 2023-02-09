@@ -1,16 +1,36 @@
-### Hi there 👋
+### Well hello there :D 
+   
+I'm Luc Salvon, a computer science student at Université de Paris, in France. I'm not really active here yet but I guess more will come with time :p
 
-<!--
-**Luc-Salvon/Luc-Salvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Preferred languages: *The ones I'm most comfortable in*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python  ★★★
+- Java       ★★☆
+- C++       ★☆☆
+
+*Let's pretend the stars line up... didn't put markdown in the list for a reason*
+
+---
+
+### I'm trying to learn ... *(I promise I'm learning them :eyes:)*
+
+- Rust
+- JavaScript
+
+---
+
+### Miscellaneous stuff to fill the void in our hearts with
+
+- I'm 20 (when you're reading this the info is surely expired)
+- I like indie games (like I'll probably do some in the future but it's hard so let's get rich before that)
+- I also like penguins since I'm like 10, guess Tux and I were meant to be together :penguin: *don't tell him I'm also using MacOS though*
+- I really don't know what to put here, so I'll start talking in toki pona because it's cool and it makes me seem inteligent:
+- mi ken toki lili taso e toki pona la mi ken ala toki mute. sina ken kama sona e toki mi la sina jan pona. kijetesantakalu wawa li lon.
+
+---
+
+Anyway thanks for losing your time reading this, I hope you're having a great day.   
+This is where I'd say something like "see ya!" but I probably don't know you...   
+Oh well I might meet you someday so see ya!! :p
