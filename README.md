@@ -23,7 +23,7 @@ I'm Luc Salvon, a computer science student at Université de Paris, in France. I
 
 ### Miscellaneous stuff to fill the void in our hearts with
 
-- I'm 20 (when you're reading this the info is surely expired)
+- I'm 21 (when you're reading this the info is surely expired)
 - I grew up in Burgundy in the deepness of the French countryside, so I know a few cows I guess :cow:
 - I really like indie games (like I'll probably do some in the future but it's hard so let's get rich before that)
 - I barely have time to play some though *(does anyone on this planet have enough time to do stuff though)*
