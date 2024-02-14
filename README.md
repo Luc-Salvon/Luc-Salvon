@@ -1,6 +1,6 @@
 ### Well hello there :D 
    
-I'm Luc Salvon, a computer science student at Université Paris Cité, in France. I'm not really active here yet but I guess more will come with time :p
+I'm Luc Salvon, a computer science student at Sorbonne Université, in France. I'm not really active here yet but I guess more will come with time :p
 
 ---
 
